@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-by 4
-=======
-created by 2
-end 
->>>>>>> 5adb59151000e63de4b8a796ca32f4c8ffabbdb8
+L1
+L2
+L3
+L4
+L5
+L6
+L7
+L8<--will be delete in 4
+L9
+L10
