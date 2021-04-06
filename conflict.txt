@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 by 4
+=======
+created by 2
+end 
+>>>>>>> 5adb59151000e63de4b8a796ca32f4c8ffabbdb8
